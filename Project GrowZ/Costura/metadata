@@ -1,0 +1,7 @@
+costura.anonfileapi.dll.compressed|1.0.0.5|AnonFileAPI, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null|AnonFileAPI.dll|099F81F1A4DFDD3ABD19B0AB500A579748BFA6F4|10752
+costura.costura.dll.compressed|5.4.0.0|Costura, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|DDBC24C978441D1B890D0F2957B055C0CB4D4F5E|4608
+costura.costura.pdb.compressed|||Costura.pdb|3D3319C69367A290D46523ECBC8CE038589F767E|2608
+costura.metroframework.dll.compressed|1.2.0.3|MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a|MetroFramework.dll|DA67301539903775708E9EC913654851E9E8EADE|152576
+costura.metroframework.fonts.dll.compressed|1.2.0.3|MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a|MetroFramework.Fonts.dll|DB066593C63D2EFF41A5AF1B49A3E098B60E0013|672256
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760
+costura.system.runtime.compilerservices.unsafe.dll.compressed|5.0.0.0|System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Runtime.CompilerServices.Unsafe.dll|BAB44612721C3DC91AC3D9DFCA7C961A3A511508|16768
